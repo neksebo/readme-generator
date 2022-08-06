@@ -1,7 +1,7 @@
 {
-  "name": "static-site",
+  "name": "readmeGenerator",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a nodejs application for creating a readme file for the challange",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"

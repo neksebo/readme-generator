@@ -9,10 +9,8 @@ const licenseBadge = require("./utils/licenseBadge").licenseBadge;
 // TODO: Create an array of questions for user input
 const questions = require("./utils/questions").questions;
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
 
-// TODO: Create a fun !1!ction to initialize app
+// TODO: Create a function to initialize app
 const init = async () => {
   try {
     const answers = await inquirer.prompt(questions);
