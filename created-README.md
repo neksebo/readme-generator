@@ -1,12 +1,12 @@
 
   
-# read me generator
+# Read me generator
 
-  read me generator
+  Generate a read me file
 
   [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
-  [A deployed version can be viewed here.](git@github.com:neksebo/readme-generator.git)
+  [A deployed version can be viewed here.](https://github.com/neksebo/readme-generator)
   
 ---
 ## Contents
@@ -25,7 +25,7 @@
 ---
 ## About
 
-  read me generator
+  Module read me gerator
 
 ---
 
@@ -45,11 +45,11 @@
 ---
 
 ## Installation:
-  clone the repo, npm install and npm start
+  node app 
 
   To clone the repo:
   
-      git clone git@github.com:neksebo/readme-generator.git
+      git clone https://github.com/neksebo/readme-generator
   
 ---
 
@@ -76,16 +76,16 @@
 ---
 
 ## Tests:
-  
+  readme generator
 
 ---
 
 ## Authors and Acknowledgments
-  Neka
+  Nneka Eboagwu
 
 ---
 
 ## Contact Information:
-* GitHub Username: neksebo
+* GitHub Username: Neksebo
 * GitHub Email: neboagwu@gmail.com
   
